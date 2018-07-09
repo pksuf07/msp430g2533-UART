@@ -1,5 +1,5 @@
 # msp430g2533-UART
-MSP-EXP430G2 / msp430g2553 / UART / ECHo
+MSP-EXP430G2 / msp430g2553 / UART / ECHO
 
 # Simplest UART Echo Test with MSP-EXP430G2 and MSP430G2553
 I used Code Composer Studio Version: 8.0.0.00016 by Texas Instruments on Windows 7 Professional. 
