@@ -6,7 +6,7 @@ I used Code Composer Studio Version: 8.0.0.00016 by Texas Instruments on Windows
 
 * P1.1 TX
 
-* P1.2 TX
+* P1.2 RX
 
 * Connection string in short: 115200-8-N-1
 
